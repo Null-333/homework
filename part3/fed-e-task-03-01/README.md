@@ -42,10 +42,10 @@ while 循环中会遇到四种情况：
 ## 二、编程题
 
 ### 1、模拟 VueRouter 的 hash 模式的实现，实现思路和 History 模式类似，把 URL 中的 # 后面的内容作为路由的地址，可以通过 hashchange 事件监听路由地址的变化。
-https://gitee.com/HelenYin/vue-router-hash/blob/master/src/vuerouter/index.js
+https://github.com/Null-333/vue-router-hash/blob/main/src/vuerouter/index.js
 
 ### 2、在模拟 Vue.js 响应式源码的基础上实现 v-html 指令，以及 v-on 指令。
-https://gitee.com/HelenYin/vue-mini/blob/master/src/compiler.js
+https://github.com/Null-333/vue-mini/blob/main/src/compiler.js
  　
 
 　
